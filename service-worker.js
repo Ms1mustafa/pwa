@@ -1,7 +1,7 @@
 // Service worker for caching and offline support
 
 const CACHE_NAME = "simple-pwa-cache";
-const urlsToCache = ["/", "index.html", "styles.css", "app.js"];
+const urlsToCache = ["/pwa", "index.html", "styles.css", "app.js"];
 
 self.addEventListener("install", (event) => {
   event.waitUntil(
