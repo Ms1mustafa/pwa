@@ -2,7 +2,7 @@
   "name": "Code Pr",
   "short_name": "Code MS",
   "description": "A simple Progressive Web App",
-  "start_url": "/",
+  "start_url": "/pwa/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#2196F3",
